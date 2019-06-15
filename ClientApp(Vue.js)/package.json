@@ -1,0 +1,27 @@
+{
+  "name": "to-do-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "mini-toastr": "^0.8.1",
+    "vue": "^2.5.17",
+    "vue-notifications": "^0.9.0",
+    "vuedraggable": "^2.16.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.3",
+    "@vue/cli-plugin-eslint": "^3.0.3",
+    "@vue/cli-service": "^3.0.3",
+    "bootstrap": "^4.0.0-beta",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4",
+    "vue-cli-plugin-bootstrap": "^1.0.0-alpha.1",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
